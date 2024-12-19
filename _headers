@@ -1,0 +1,10 @@
+/*
+  Access-Control-Allow-Origin: *
+
+/*.vtt
+  Content-Type: text/vtt
+  Access-Control-Allow-Origin: *
+
+/*.jpg
+  Content-Type: image/jpeg
+  Access-Control-Allow-Origin: *
